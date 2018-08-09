@@ -1,5 +1,5 @@
 # dog.rb
 class Dog 
-  def initialize
+  def 
     
 end
