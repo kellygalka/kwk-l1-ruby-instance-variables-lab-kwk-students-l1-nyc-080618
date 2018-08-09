@@ -1,9 +1,9 @@
 # dog.rb
 class Dog 
   def name= (dog_name)
-    Lassie = dog_name
+    this_dogs_name = dog_name
   end
   def name
-    Lassie
+    this_dog_name
   end
 end
